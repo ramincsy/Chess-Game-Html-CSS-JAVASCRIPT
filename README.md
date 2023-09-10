@@ -58,4 +58,5 @@ The Chess Game project is publicly accessible. Join us and enjoy an exciting lea
 ## آماده به چالش هستید؟
 
 پروژه بازی شطرنج من در دسترس همگانی است. به ما بپیوندید و تجربه جذاب یادگیری برنامه‌نویسی و بازی شطرنج را تجربه کنید.
-[[Download-Free](https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT.git)https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT.git](لینک-پروژه)
+
+[[Download-Free](https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT.git)]
