@@ -1,4 +1,5 @@
 # Chess Game - A Fun and Educational Experience
+![نمونه‌ای از بازی](https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT/raw/main/Demo.PNG)
 
 Chess is one of the most renowned strategy and mind games globally. If you're looking to learn programming and web development or wish to practically exercise programming concepts, our Chess Game project is here to help.
 
