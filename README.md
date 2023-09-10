@@ -30,7 +30,8 @@ Our Chess Game project is open to all. We invite you to embark on an exciting jo
 [[Download for Free](https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT.git)]
 
 # بازی شطرنج - تجربه‌ای سرگرم‌کننده و آموزشی
-![نمایی از بازی](https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT/raw/main/Demo.PNG)
+
+![نمایی از بازی](https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT/blob/main/Demo2.PNG)
 
 با خوش آمدگویی به پروژه بازی شطرنج ما، جایی که ما از توانایی‌های JavaScript، HTML و CSS برای ایجاد تجربه‌ای سرگرم‌کننده و آموزشی بهره‌برده‌ایم.
 
