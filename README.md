@@ -26,7 +26,7 @@ You can contribute to this project in several ways:
 
 The Chess Game project is publicly accessible. Join us and enjoy an exciting learning experience in both programming and chess.
 
-[View Project](Project-Link)
+[View Project]([Project-Link](https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT.git))
 
 
 
@@ -59,4 +59,4 @@ The Chess Game project is publicly accessible. Join us and enjoy an exciting lea
 
 پروژه بازی شطرنج من در دسترس همگانی است. به ما بپیوندید و تجربه جذاب یادگیری برنامه‌نویسی و بازی شطرنج را تجربه کنید.
 
-[مشاهده پروژه](لینک-پروژه)
+[مشاهده پروژه]([لینک-پروژه](https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT.git)https://github.com/ramincsy/Chess-Game-Html-CSS-JAVASCRIPT.git)
